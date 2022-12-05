@@ -60,7 +60,7 @@ Il valore della variabile secondonome che appare nella console è sempre Mario p
 /* 
 let numero3 = 4
 let sottrazione = (numero3 - x) 
-console.log (sottrazione) */
+console.log ("Il risultato della sottrazione è: " + sottrazione) */
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -78,7 +78,13 @@ console.log (name1 !== name2)
 console.log (name1.toLoweCase() === name2.toLowerCase())
 
 let john = name2.toLowerCase()
-console.log (john === name1) 
+console.log (john === name1)
+
+
+if{name1.toLoweCase() === name2.toLowerCase()}{
+  console.log(true)
+}else{console.log(false)}
+
 */
 
 
