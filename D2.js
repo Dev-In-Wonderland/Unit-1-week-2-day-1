@@ -14,6 +14,9 @@ REGOLE
 let numero = 16 /* Il conttenuto di un dato numerico in una variabile viene indicato con un valore numerico sia intero che decimale dopo il simbolo senza essere contrassegnato da virgolette. */
 let stringa = "anatra" /* Il contenuto di un dato stringa in una variaile viene indicato con una sequenza di caratteri, sia di lettere che di numeri, racchiusi fra virgolette e viene assegnato alla variabile con il simbolo uguale. */
 let booleano = true /*Il contenuto di un dato booleano in una variabile può avere come valore o true o false e assegna alla variabile una dichiarazione: se sia vera oppure falsa.*/
+let y = null /* Quando una variabile non ha nessun valore al suo interno */  
+ 
+const qualcosa = qualcosaltro /* Quando una variabile non è definita, cioè non è assegnata ad un determinato valore*/
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
@@ -65,12 +68,18 @@ console.log (sottrazione) */
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-/* let name1 = "john"
+/* 
+let name1 = "john"
 let name2 = "John"
 console.log (name1 === name2)
 
+console.log (name1 !== name2)
+
+console.log (name1.toLoweCase() === name2.toLowerCase())
+
 let john = name2.toLowerCase()
-console.log (john === name1) */
+console.log (john === name1) 
+*/
 
 
 
