@@ -81,7 +81,7 @@ let john = name2.toLowerCase()
 console.log (john === name1)
 
 
-if{name1.toLoweCase() === name2.toLowerCase()}{
+if(name1.toLoweCase() === name2.toLowerCase()){
   console.log(true)
 }else{console.log(false)}
 
