@@ -16,7 +16,7 @@ let stringa = "anatra" /* Il contenuto di un dato stringa in una variaile viene 
 let booleano = true /*Il contenuto di un dato booleano in una variabile può avere come valore o true o false e assegna alla variabile una dichiarazione: se sia vera oppure falsa.*/
 let y = null /* Quando una variabile non ha nessun valore al suo interno */  
  
-const qualcosa = qualcosaltro /* Quando una variabile non è definita, cioè non è assegnata ad un determinato valore*/
+/*const qualcosa = qualcosaltro Quando una variabile non è definita o non è assegnata ad un determinato valore*/
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
