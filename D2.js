@@ -11,9 +11,9 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-let numero = 16 /* Il conttenuto di un dato numerico in una variabile viene indicato con un valore numerico sia intero che decimale dopo il simbolo senza essere contrassegnato da virgolette. */
-let stringa = "anatra" /* Il contenuto di un dato stringa in una variaile viene indicato con una sequenza di caratteri, sia di lettere che di numeri, racchiusi fra virgolette e viene assegnato alla variabile con il simbolo uguale. */
-let booleano = true /*Il contenuto di un dato booleano in una variabile può avere come valore o true o false e assegna alla variabile una dichiarazione: se sia vera oppure falsa.*/
+let number = 16 /* Il conttenuto di un dato numerico in una variabile viene indicato con un valore numerico sia intero che decimale dopo il simbolo senza essere contrassegnato da virgolette. */
+let string = "anatra" /* Il contenuto di un dato stringa in una variaile viene indicato con una sequenza di caratteri, sia di lettere che di numeri, racchiusi fra virgolette e viene assegnato alla variabile con il simbolo uguale. */
+let boolean = true /*Il contenuto di un dato booleano in una variabile può avere come valore o true o false e assegna alla variabile una dichiarazione: se sia vera oppure falsa.*/
 let y = null /* Quando una variabile non ha nessun valore al suo interno */  
  
 /*const qualcosa = qualcosaltro Quando una variabile non è definita o non è assegnata ad un determinato valore*/
